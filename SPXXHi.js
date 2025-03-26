@@ -1847,7 +1847,7 @@ ${translate(
     } ${posted.year} 年 ${posted.month} 月 ${posted.day} 日发布的 ${
       ctx.title
     }[/u][/color][/url]】[/b]
-【本文排版借助了：[url=https://github.com/cinder0601/SPXXHi][color=#388d40][u]SPXXHi[/u][/color][/url] 用户脚本 v${spxxhiVersion}】\n\n${footer}`;
+【本文排版借助了：[url=https://github.com/HiMCBBS/SPXXHi][color=#388d40][u]SPXXHi[/u][/color][/url] 用户脚本 v${spxxhiVersion}】\n\n${footer}`;
     return ans;
   }
 
